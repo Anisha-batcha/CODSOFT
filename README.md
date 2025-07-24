@@ -30,5 +30,5 @@ Your current score: 10
 Anisha J | Pre-final year student of B.Tech Information Technology at SSM Institute of Engineering and Technology, Dindigul.
 
 ## Connect with Me
-LinkedIn Profile: https://www.linkedin.com/
+LinkedIn Profile: https://linkedin.com/in/anisha-j-0073ba312
 
