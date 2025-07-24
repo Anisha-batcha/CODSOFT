@@ -1,6 +1,6 @@
 # Number Guessing Game - Java
 
-This is a simple console-based Number Guessing Game written in Java as part of my internship task.
+This is a simple console-based Number Guessing Game written in Java as part of my internship task-1.
 
 ## Features
 - Random number generation between 1 and 100
