@@ -22,7 +22,7 @@ This is a simple console-based Number Guessing Game written in Java as part of m
 2. Run the game:
    java NumberGame
 
-   ## Sample Output
+## Sample Output
 Welcome to the Number Guessing Game!
 Round 1:
 Guess the number between 1 and 100. You have 5 attempts.
