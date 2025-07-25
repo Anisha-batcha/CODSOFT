@@ -1,3 +1,50 @@
+#ATM Interface - Java Console Application
+This is a simple Java console-based ATM simulation developed as part of the Java Internship Task 3.
+It allows users to perform basic banking operations like checking balance, depositing money, and withdrawing funds.
+
+##Features
+Console-based user interaction
+
+Options to:
+Check account balance
+Deposit amount
+Withdraw amount
+
+Input validation:
+Positive values only
+Prevents withdrawal if funds are insufficient
+Displays success/failure messages for each transaction
+
+##Technologies Used
+Language: Java
+Compiler: Any Java JDK (Java 8 or above recommended)
+IDE: VS Code / IntelliJ / Eclipse (any Java-supported IDE)
+
+##How to Run
+1.Open the project in your preferred IDE or text editor.
+2.Compile the Java file: javac ATMInterface.java
+3.Run the program: java ATMInterface
+4.Follow the console prompts to interact with the ATM.
+
+##Sample Output
+====== ATM Menu ======
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Exit
+Choose an option: 2
+Enter amount to deposit: ₹1000
+₹1000.0 deposited successfully.
+
+====== ATM Menu ======
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Exit
+Choose an option: 1
+Your current balance is: ₹2000.0
+________________________________________________________________________________________________________________________________________________________________
+
 # Number Guessing Game - Java
 
 This is a simple console-based Number Guessing Game written in Java as part of my Java Internship Task 1.
